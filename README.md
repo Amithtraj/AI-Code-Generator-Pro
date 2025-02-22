@@ -25,7 +25,7 @@ To run this application, you need:
 
 1. Clone or download this repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/ai-code-generator-pro.git
+    git clone https://github.com/Amithtraj/AI-Code-Generator-Pro/
     ```
 
 2. Navigate to the project directory and install the required dependencies:
