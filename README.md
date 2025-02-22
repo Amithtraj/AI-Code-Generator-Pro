@@ -98,9 +98,6 @@ You can modify the API configurations by updating the values in the `setup_confi
 - **RETRY_DELAY**: Delay in seconds between retries.
 - **TIMEOUT**: Timeout for the API request.
 
-## License 📄
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
